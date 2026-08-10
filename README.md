@@ -1,6 +1,6 @@
 # ENEM 2025 Data Quality Pipeline
 
-Projeto de portfólio para construir um processo reproduzível de auditoria, limpeza e padronização dos Microdados do Enem 2025.
+Projeto de portfólio para construir um processo reproduzível de inspeção, limpeza e padronização dos Microdados do Enem 2025.
 
 ## Objetivo
 
@@ -37,5 +37,5 @@ enem-data/
 
 ## Situação atual
 
-Etapa 1 - auditoria da fonte e definição do contrato de dados.
+Etapa 1 - inspeção da fonte e definição do contrato de dados.
 
