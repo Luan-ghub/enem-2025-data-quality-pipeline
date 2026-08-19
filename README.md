@@ -38,4 +38,8 @@ enem-data/
 ## Situação atual
 
 Etapa 1 - inspeção da fonte e definição do contrato de dados.
+    inspeção concluída;
+    principais resultados;
+    próxima etapa: limpeza e padronização.
 
+Etapa 2 - Limpeza e padronização dos dados.
