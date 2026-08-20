@@ -43,3 +43,6 @@ Etapa 1 - inspeção da fonte e definição do contrato de dados.
     próxima etapa: limpeza e padronização.
 
 Etapa 2 - Limpeza e padronização dos dados.
+    limpeza concluída
+    padronização dos textos, tipos e variáveis numéricas executada
+    base limpa salva em parquet 
